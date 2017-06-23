@@ -40,7 +40,7 @@ class Main extends React.Component {
             <div className="wrap">
                 <p>Hey Badde,</p>
                 <p>Many Many Happy Returns of the day....<br /> <code>&nbsp;&nbsp; Happy Birth Day To You..</code> </p>
-                <p>On this day, it seems words are not enough to let you know what you mean to me. You are my best friend, confidant, and always push me to achieve my dreams.</p>
+                <p>On this day, it seems words are not enough to let you know what you mean to me. You are my best friend, my confidence, and always push me to achieve my dreams.</p>
                 <p> You mean my teacher.., my Brother my buddy... to me and I adore you, Baddae....</p>
                 
                 <p>Jai Hind...Jai Bharat.. :)  :P</p>
