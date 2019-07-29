@@ -38,12 +38,11 @@ class Main extends React.Component {
        <div id="card">
             <div id="card-inside">
             <div className="wrap">
-                <p>Hey Badde,</p>
+                <p>Hey Jeevan,</p>
                 <p>Many Many Happy Returns of the day....<br /> <code>&nbsp;&nbsp; Happy Birth Day To You..</code> </p>
-                <p>On this day, it seems words are not enough to let you know what you mean to me. You are my best friend, my confidence, and always push me to achieve my dreams.</p>
-                <p> You mean my teacher.., my Brother my buddy... to me and I adore you, Baddae....</p>
                 
-                <p>Jai Hind...Jai Bharat.. :)  :P</p>
+                
+                <p></p>
                 <p></p>
                 <p></p>
                 <p></p>
@@ -55,7 +54,7 @@ class Main extends React.Component {
             <div id="card-front">
             <div className="wrap">
                 <h1>Happy Birthday!</h1>
-                <img src={require("./../images/m1.png")}/>
+                <img src={require("./../images/m2.png")}/>
             </div>
             <button id="open">&gt;</button>
             <button id="close">&lt;</button>
