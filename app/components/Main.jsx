@@ -54,7 +54,7 @@ class Main extends React.Component {
             <div id="card-front">
             <div className="wrap">
                 <h1>Happy Birthday!</h1>
-                <img src={require("./../images/m2.png")}/>
+                <img src={require("./../images/m3.png")}/>
             </div>
             <button id="open">&gt;</button>
             <button id="close">&lt;</button>
